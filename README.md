@@ -29,6 +29,10 @@ I'm a beginner programmer looking to improve my skills and explore new technolog
 ## Socials
 
 <a href="https://discord.com/users/769105946034831390" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/aidhaadil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+Contact me on Discord or X. Thank you for visiting!
+
 
 
 
