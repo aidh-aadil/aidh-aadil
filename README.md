@@ -5,7 +5,7 @@ I'm a beginner programmer looking to improve my skills and explore new technolog
 ## About Me
 
 - 🤝 Contact me via my socials. I am looking forward to collaborate with new projects.
-- 🔭 Currently, I'm building a Discord bot with discord.js. Feel free to reach out for potential collaborations!
+- 🔭 Currently, I'm building a Discord bot using discord.py. Feel free to reach out for potential collaborations!
 
 ## Skills
 
