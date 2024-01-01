@@ -19,8 +19,6 @@ I'm a beginner programmer looking to improve my skills and explore new technolog
 
 ## Projects
 
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=aidh-aadil&repo=Conways-game-of-life&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aidh-aadil/Conways-game-of-life)
-
 [![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=aidh-aadil&repo=sparky-bot&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aidh-aadil/sparky-bot)
 
 
