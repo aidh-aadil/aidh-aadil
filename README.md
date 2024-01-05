@@ -7,9 +7,8 @@ I'm a beginner programmer looking to improve my skills and explore new technolog
 
 ## Projects
 
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=aidh-aadil&repo=sparky-bot&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aidh-aadil/sparky-bot)
-
-
+[![Sparky Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=aidh-aadil&repo=sparky-bot&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aidh-aadil/sparky-bot)
+[![Flappybird Pygame](https://github-readme-stats.vercel.app/api/pin/?username=aidh-aadil&repo=flappy-bird&title_color=3366ff&text_color=ffffff&icon_color=3366ff&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aidh-aadil/flappy-bird)
 
 ## GitHub Stats
 
