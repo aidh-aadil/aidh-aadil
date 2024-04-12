@@ -1,37 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi,+I+am+Aidh+Aadil;⌨️+I+like+programming;🦀+Currently+learning+rust;☕+I+like+coffee;🇱🇰+I+am+from+Sri+Lanka;🔭+I+am+self-taught;" alt="Typing SVG" /></a>
-
-```rs
-use std::collections::HashMap;
-
-struct Programmer {
-    name: &'static str,
-    age: u32,
-    socials: HashMap<&'static str, &'static str>,
-    interests: Vec<&'static str>,
-    languages: Vec<&'static str>,
-    coffee: bool,
-}
-
-fn main() {
-    let mut socials = HashMap::new();
-    socials.insert("Discord", "aidhaadil");
-
-    let aidh = Programmer {
-        name: "Aidh Aadil",
-        age: 15,
-        socials,
-        interests: vec![
-            "Coding", "Rock climbing", "Books"
-        ],
-        languages: vec![
-            "Python", "JavaScript(Node.js)", "A bit of Rust"
-        ],
-        coffee: true,
-    };
-
-    println!("Thanks for visiting!");
-}
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi,+I+am+Aidh+Aadil;⌨️+I+like+programming;⏳+Currently+taking+a+break;☕+I+like+coffee;🇱🇰+I+am+from+Sri+Lanka;🔭+I+am+self-taught;" alt="Typing SVG" /></a>
 
 ### GitHub Stats
 
